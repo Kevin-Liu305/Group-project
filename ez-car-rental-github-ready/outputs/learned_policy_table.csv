@@ -1,0 +1,157 @@
+city,time_of_day,util_bin,learned_best_arm,true_best_arm,state_weight
+Arlington,afternoon,low,medium,low,0.0007428197949307475
+Arlington,afternoon,medium,high,low,8.498198381943028e-06
+Arlington,afternoon,high,low,high,9.232133696747199e-05
+Arlington,evening,low,medium,low,0.0005975778589484484
+Arlington,evening,medium,high,low,5.79422616950661e-06
+Arlington,evening,high,medium,high,9.966069011551369e-05
+Arlington,morning,low,high,low,0.0008096465367523903
+Arlington,morning,medium,high,low,7.72563489267548e-07
+Arlington,morning,high,medium,high,3.283394829387079e-05
+Arlington,night,low,low,low,0.0009266899053764239
+Arlington,night,medium,high,low,3.476535701703966e-06
+Arlington,night,high,high,high,5.369316250409459e-05
+Berkeley,afternoon,low,medium,low,0.002677318772056688
+Berkeley,afternoon,medium,high,low,8.807223777650047e-05
+Berkeley,afternoon,high,high,high,0.0013361485546882243
+Berkeley,evening,low,medium,low,0.0022072138888373847
+Berkeley,evening,medium,medium,low,6.605417833237536e-05
+Berkeley,evening,high,low,high,0.0011576863886674207
+Berkeley,morning,low,high,low,0.003245539218412969
+Berkeley,morning,medium,low,low,5.601085297189723e-05
+Berkeley,morning,high,medium,high,0.0007976718026687433
+Berkeley,night,low,medium,low,0.0038330737520009396
+Berkeley,night,medium,medium,low,7.648378543748726e-05
+Berkeley,night,high,low,high,0.0008814949412542723
+Boston,afternoon,low,low,low,0.01895600405441319
+Boston,afternoon,medium,low,low,0.0003016860425589775
+Boston,afternoon,high,high,high,0.0066162337220872815
+Boston,evening,low,high,low,0.015526594725554546
+Boston,evening,medium,high,low,0.0003148196218765258
+Boston,evening,high,high,high,0.005719287511047658
+Boston,morning,low,medium,low,0.021368719831395745
+Boston,morning,medium,high,low,0.000136743737600356
+Boston,morning,high,medium,high,0.004387001773805771
+Boston,night,low,high,low,0.024667565930568174
+Boston,night,medium,high,low,0.00019700368976322474
+Boston,night,high,high,high,0.0053248938497765744
+Brookline,afternoon,low,medium,low,0.0006018269581394199
+Brookline,afternoon,medium,high,low,1.1202170594379445e-05
+Brookline,afternoon,high,medium,high,0.00022983763805709554
+Brookline,evening,low,high,low,0.0005102781846612154
+Brookline,evening,medium,high,low,1.1974734083646994e-05
+Brookline,evening,high,medium,high,0.00018039357474397246
+Brookline,morning,low,high,low,0.0006817872792786111
+Brookline,morning,medium,medium,low,5.407944424872836e-06
+Brookline,morning,high,low,high,0.0001560578248320447
+Brookline,night,low,medium,low,0.0008057837193060526
+Brookline,night,medium,high,low,6.953071403407932e-06
+Brookline,night,high,high,high,0.0001711228128727619
+Cambridge,afternoon,low,high,low,0.00442060828558891
+Cambridge,afternoon,medium,low,low,5.79422616950661e-05
+Cambridge,afternoon,high,high,high,0.0015613508118097145
+Cambridge,evening,low,high,low,0.0035680844751821705
+Cambridge,evening,medium,low,low,7.377981322505083e-05
+Cambridge,evening,high,medium,high,0.0013890691537030513
+Cambridge,morning,low,high,low,0.004933976724207196
+Cambridge,morning,medium,medium,low,2.703972212436418e-05
+Cambridge,morning,high,high,high,0.0010827477302084686
+Cambridge,night,low,high,low,0.005701904832539138
+Cambridge,night,medium,medium,low,4.519496412215156e-05
+Cambridge,night,high,medium,high,0.001295588971501678
+Chicago,afternoon,low,high,low,0.01881346609064333
+Chicago,afternoon,medium,low,medium,0.00038666802637840776
+Chicago,afternoon,high,high,high,0.006002818311608848
+Chicago,evening,low,medium,low,0.01592214723205953
+Chicago,evening,medium,high,low,0.00038821315335694286
+Chicago,evening,high,high,high,0.0046910055068325514
+Chicago,morning,low,medium,low,0.02207136632488458
+Chicago,morning,medium,low,low,0.00018077985648860625
+Chicago,morning,high,low,high,0.002968961489255187
+Chicago,night,low,high,low,0.02608367480639559
+Chicago,night,medium,high,low,0.00017575819380836718
+Chicago,night,high,high,high,0.003152059036211596
+Daly City,afternoon,low,low,low,0.0003511301058721006
+Daly City,afternoon,medium,medium,low,2.2790622933392668e-05
+Daly City,afternoon,high,high,high,0.0005068016489595115
+Daly City,evening,low,medium,low,0.00024026724516220744
+Daly City,evening,medium,medium,low,2.1631777699491343e-05
+Daly City,evening,high,medium,high,0.0004693323197300354
+Daly City,morning,low,high,low,0.0005995092676716172
+Daly City,morning,medium,high,low,2.5880876890462857e-05
+Daly City,morning,high,high,high,0.00025340082447975577
+Daly City,night,low,medium,low,0.0007505454298234229
+Daly City,night,medium,low,low,2.5880876890462857e-05
+Daly City,night,high,high,high,0.00025146941575658686
+Hayward,afternoon,low,medium,low,0.00025340082447975577
+Hayward,afternoon,medium,medium,low,8.884480126576802e-06
+Hayward,afternoon,high,low,high,0.00027232862996681066
+Hayward,evening,low,medium,low,0.00022636110235539156
+Hayward,evening,medium,high,low,9.65704361584435e-06
+Hayward,evening,high,medium,high,0.00021090983257004062
+Hayward,morning,low,medium,low,0.00036040086774331116
+Hayward,morning,medium,high,low,1.3133579317548317e-05
+Hayward,morning,high,low,high,0.0001603069240230162
+Hayward,night,low,medium,low,0.0004677871927515003
+Hayward,night,medium,high,low,1.4678706296083413e-05
+Hayward,night,high,high,high,0.00014292424551449638
+Oakland,afternoon,low,medium,low,0.00569495176113573
+Oakland,afternoon,medium,medium,low,0.00021786290397344854
+Oakland,afternoon,high,high,high,0.003635297498748447
+Oakland,evening,low,high,low,0.004649287078412104
+Oakland,evening,medium,low,low,0.0001827112652117751
+Oakland,evening,high,low,high,0.0031478099370206244
+Oakland,morning,low,high,low,0.007078226688669275
+Oakland,morning,medium,low,low,0.00016301089623545263
+Oakland,morning,high,medium,high,0.0022964449718477866
+Oakland,night,low,low,low,0.00842866766790895
+Oakland,night,medium,medium,low,0.00017807588427616982
+Oakland,night,high,medium,high,0.0025440515701580357
+San Bruno,afternoon,low,medium,low,0.00020588816988980155
+San Bruno,afternoon,medium,high,low,1.545126978535096e-05
+San Bruno,afternoon,high,high,high,0.0003229315385138351
+San Bruno,evening,low,medium,low,0.00020086650720956247
+San Bruno,evening,medium,high,low,2.0472932465590022e-05
+San Bruno,evening,high,medium,high,0.00023872211818367234
+San Bruno,morning,low,low,low,0.00037392072880549325
+San Bruno,morning,medium,medium,low,1.545126978535096e-05
+San Bruno,morning,high,high,high,0.0001587617970444811
+San Bruno,night,low,medium,low,0.0005110507481504831
+San Bruno,night,medium,medium,low,1.93140872316887e-05
+San Bruno,night,high,medium,high,0.00010970401547599182
+San Francisco,afternoon,low,high,high,0.08124818447580022
+San Francisco,afternoon,medium,high,high,0.002497311479057349
+San Francisco,afternoon,high,high,high,0.04425938973664856
+San Francisco,evening,low,medium,medium,0.0701456745715363
+San Francisco,evening,medium,medium,high,0.0024208276936198616
+San Francisco,evening,high,high,high,0.034282504836247445
+San Francisco,morning,low,high,high,0.10303254346442191
+San Francisco,morning,medium,low,high,0.0017475386127231937
+San Francisco,morning,high,high,high,0.02329781086409681
+San Francisco,night,low,low,low,0.12458397456102943
+San Francisco,night,medium,high,medium,0.0016822569978800859
+San Francisco,night,high,low,high,0.02321669169772372
+San Mateo,afternoon,low,high,low,0.00039130340731401305
+San Mateo,afternoon,medium,medium,low,8.498198381943028e-06
+San Mateo,afternoon,high,high,high,0.00023215532852489818
+San Mateo,evening,low,high,low,0.0003152059036211596
+San Mateo,evening,medium,high,low,8.111916637309255e-06
+San Mateo,evening,high,low,high,0.00020936470559150552
+San Mateo,morning,low,low,low,0.0005044839584917089
+San Mateo,morning,medium,high,low,1.1202170594379445e-05
+San Mateo,morning,high,low,high,0.00010931773373135804
+San Mateo,night,low,low,low,0.0005801951804399286
+San Mateo,night,medium,medium,low,1.2747297572914541e-05
+San Mateo,night,high,medium,high,0.00014137911853596128
+Washington,afternoon,low,low,low,0.03739091403531542
+Washington,afternoon,medium,medium,medium,0.000398256478717421
+Washington,afternoon,high,medium,high,0.009049808713280058
+Washington,evening,low,medium,low,0.030848073844708557
+Washington,evening,medium,low,low,0.00041370774850277194
+Washington,evening,high,low,high,0.007807912904282474
+Washington,morning,low,low,low,0.040513615658934854
+Washington,morning,medium,low,low,0.00017846216602080358
+Washington,morning,high,medium,high,0.006100933874745826
+Washington,night,low,medium,low,0.04710512734936557
+Washington,night,medium,low,low,0.00026035389588316367
+Washington,night,high,medium,high,0.007245872965840333
